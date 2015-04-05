@@ -36,4 +36,4 @@ proguard/
 
 # android studio configuration files
 *.iml
-
+.idea/*
