@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#1FFFFF</color>
+    <color name="lightgray">#999999</color>
+    <color name="view1">#FFFF99</color>
+    <color name="view2">#FFCC99</color>
+    <color name="view3">#FFA347</color>
+    <color name="view4">#BBBFBF</color>
+    <color name="view5">#7AAB8A</color>
+</resources>
